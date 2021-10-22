@@ -16,5 +16,5 @@ for i in range(10):
         print(i)
     if i % 2 == 0:
         break
-else: ## Só entra no else se ele terminar o loop do for, caso ele quebre no break ele não entrarar no else;
+else:## Só entra no else se ele terminar o loop do for, caso ele quebre no break ele não entrarar no else;
     print('Fora do loop!')
